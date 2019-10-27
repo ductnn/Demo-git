@@ -1,0 +1,3 @@
+function dog(argument) {
+	// body...
+}
