@@ -1,0 +1,14 @@
+{
+  "name": "1-commit",
+  "version": "1.0.0",
+  "description": "/Demo git/",
+  "main": "Cat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ductn",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2"
+  }
+}
