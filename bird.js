@@ -8,4 +8,9 @@ bird.prototype.eat= function(mouse) {
 	this.stomach.push(mouse);
 };
 
+bird.prototype.saySomething = function() {
+	// body...
+	console.log('Iam flyingggggggggg');
+};
+
 module.exports = bird;
