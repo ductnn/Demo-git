@@ -16,4 +16,9 @@ Cat.prototype.saySomething = function() {
 	console.log('Hello world' + chalk.blue(this.name));
 };
 
+Cat.prototype.saySomething = function() {
+	// body...
+	console.log('Hello !!!!!!!!!!!');
+};
+
 module.exports = Cat;
