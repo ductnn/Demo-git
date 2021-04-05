@@ -5,8 +5,6 @@ title: Git 🐧🐧🐧
 ## Overview
 ### Git là gì?
 
-Bạn đang làm việc cùng team ??? Thử tượng tượng rằng trong team bạn không ai biết gì về git cả và mỗi người code một phần, sau đó review và merge code thì ... **ÔI KINH HOÀNG**. Nào là code lỗi, code thiếu, không kịp update,... và Git trở thành vị cứu tinh.
-
 - Git là một hệ thống quản lý phân tán (DVCS), giúp quản lý dự án đơn giản, dễ dàng hơn.  
 - Các file có thể nằm trong 3 trạng sau của git: 
     * commited: Dữ liệu được lưu trữ an toàn trong Database 
